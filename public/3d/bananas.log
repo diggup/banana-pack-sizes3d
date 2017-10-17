@@ -1,0 +1,51 @@
+	Exporter version: 4.6.1, Blender version: 2.76 (sub 0)
+========= Conversion from Blender to Babylon.js =========
+	Scene settings used:
+		selected layers only:  false
+		flat shading entire scene:  false
+		inline textures:  false
+		texture directory:  H:\XAMPP\htdocs\bananas\public\3d\
+	Python World class constructor completed
+	WARNING: No active camera has been assigned, or is not in a currently selected Blender layer
+	processing begun of mesh:  screen2
+		processing begun of Standard material:  WhiteScreenMat
+		num positions      :  4
+		num normals        :  4
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  6
+	processing begun of mesh:  screen1
+		registered as also a user of material:  WhiteScreenMat
+		num positions      :  4
+		num normals        :  4
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  6
+	processing begun of mesh:  wheel.0
+		processing begun of Standard material:  wheelMat
+			Diffuse texture found "wheelTex"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+	WARNING: Error encountered processing image file:  , Error:  'H:\\XAMPP\\htdocs\\bananas\\#source\\..\\public\\3d\\digits.png' and 'H:\\XAMPP\\htdocs\\bananas\\public\\3d\\digits.png' are the same file
+		num positions      :  348
+		num normals        :  348
+		num uvs            :  696
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  348
+	processing begun of mesh:  crate
+		processing begun of Standard material:  crateMat
+			Diffuse texture found "crateTex"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+	WARNING: Error encountered processing image file:  , Error:  'H:\\XAMPP\\htdocs\\bananas\\#source\\..\\public\\3d\\crate.jpg' and 'H:\\XAMPP\\htdocs\\bananas\\public\\3d\\crate.jpg' are the same file
+		num positions      :  1063
+		num normals        :  1063
+		num uvs            :  2126
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2568
+========= Writing of scene file started =========
+========= Writing of scene file completed =========
+========= end of processing =========
+elapsed time:  0 min, 0.0536 secs

@@ -1,0 +1,22 @@
+
+TO DO
+===================================
+
+Fix bug no.1
+
+Add a 'blank' option on the 3d number wheels!
+	Currently the options are 0 - 9
+
+Make 3d camera automatically animate to correct distance from meshes
+	This will be needed when the number of banana pack sizes increases
+
+Add reset button for 3d scene and html form
+
+Chain animations so that 3d text labels appear after crates appear
+
+Make 3d text label animations fade in/out
+
+
+BUGS
+===================================
+1.  3d number wheels can go out of synch when using backspace and entering a new number quickly.
